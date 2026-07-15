@@ -13,8 +13,8 @@ Capstone project for the AI-assisted development track. This repo demonstrates a
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/hrishikeshpradeep/CAPSTONE-PROJECT.git
+cd CAPSTONE-PROJECT.git
 npm install
 ```
 
